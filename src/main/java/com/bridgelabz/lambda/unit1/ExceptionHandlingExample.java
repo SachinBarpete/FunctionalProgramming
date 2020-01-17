@@ -1,4 +1,4 @@
-package com.bridgelabz.lambda;
+package com.bridgelabz.lambda.unit1;
 
 import java.util.function.BiConsumer;
 

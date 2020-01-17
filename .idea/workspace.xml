@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26b8a524-7628-41a1-a51c-79c5b64d99f2" name="Default Changelist" comment="" />
+    <list default="true" id="8e2dc5b3-720e-4f80-a722-be62378e2f48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ThisReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/ExceptionHandlingExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/RunnableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/RunnableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/TypeInferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/TypeInferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit1ExerciseUsingJava7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit1ExerciseUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit2ExerciseUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/StandardFunctionalInterfaceExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -14,7 +45,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1WShFDD6GvQD8YwO1n76eBaITjc" />
+  <component name="ProjectId" id="1WWQ3PiIzUl85mzxByRKx0ECyU2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,24 +53,80 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
-    <configuration name="Unit2ExerciseUsingJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.Unit2ExerciseUsingJava8" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bridgelabz.lambda" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodReferenceExample1">
+    <configuration name="ClosuresExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ClosuresExample" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.*" />
+          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ExceptionHandlingExample" />
+      <module name="FunctionalProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.Greeter" />
+      <module name="FunctionalProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferenceExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit2.MethodReferenceExample1" />
+      <module name="FunctionalProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.lambda.unit2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ThisReferenceExample" />
+      <module name="FunctionalProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Unit2ExerciseUsingJava8" />
+        <item itemvalue="Application.MethodReferenceExample1" />
+        <item itemvalue="Application.ThisReferenceExample" />
+        <item itemvalue="Application.ClosuresExample" />
+        <item itemvalue="Application.Greeter" />
+        <item itemvalue="Application.ExceptionHandlingExample" />
       </list>
     </recent_temporary>
   </component>
@@ -70,12 +161,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26b8a524-7628-41a1-a51c-79c5b64d99f2" name="Default Changelist" comment="" />
-      <created>1579148797733</created>
+      <changelist id="8e2dc5b3-720e-4f80-a722-be62378e2f48" name="Default Changelist" comment="" />
+      <created>1579262670719</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579148797733</updated>
-      <workItem from="1579148804347" duration="1499000" />
+      <updated>1579262670719</updated>
+      <workItem from="1579262671987" duration="793000" />
+      <workItem from="1579263609290" duration="4052000" />
     </task>
     <servers />
   </component>
@@ -83,29 +175,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="56" key="GridCell.Tab.0.bottom" timestamp="1579150642508">
+    <state x="373" y="202" width="610" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579262704893">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="56" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579150642508" />
-    <state width="1320" height="56" key="GridCell.Tab.0.center" timestamp="1579150642508">
+    <state x="373" y="202" width="610" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1579262704893" />
+    <state x="436" y="296" width="494" height="209" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579268341952">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="56" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579150642508" />
-    <state width="1320" height="56" key="GridCell.Tab.0.left" timestamp="1579150642508">
+    <state x="436" y="296" width="494" height="209" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1366.741@0.27.1366.741" timestamp="1579268341952" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1579268882553">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="56" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579150642508" />
-    <state width="1320" height="56" key="GridCell.Tab.0.right" timestamp="1579150642508">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579268882553" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1579268882552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="56" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579150642508" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1579149125054">
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579268882552" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1579268882551">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579149125054" />
-    <state x="328" y="128" width="710" height="538" key="find.popup" timestamp="1579148911153">
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579268882551" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1579268882552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="328" y="128" width="710" height="538" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1579148911153" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579268882552" />
+    <state x="328" y="128" width="710" height="538" key="find.popup" timestamp="1579265479590">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="328" y="128" width="710" height="538" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1579265479590" />
   </component>
 </project>
