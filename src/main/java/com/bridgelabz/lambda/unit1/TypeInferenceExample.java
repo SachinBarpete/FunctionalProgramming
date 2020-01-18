@@ -1,5 +1,10 @@
 package com.bridgelabz.lambda.unit1;
 
+/***
+ * @author Sachin Barpete
+ * @purpose Type reference
+ * @date 18/01/2020
+ */
 public class TypeInferenceExample {
 
 	public static void main(String[] args) {

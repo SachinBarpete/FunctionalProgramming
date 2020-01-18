@@ -16,7 +16,7 @@ public class MethodReferenceExample2 {
 
         // step2: Print all person in the list
         System.out.println("---- All persons in the list ----");
-        performConditionally(people, p -> true, p -> System.out.println(p));
+        performConditionally(people, p -> true, System.out::println);
     }
 
     private static void performConditionally(List<Person> people, Predicate<Person> predicate,

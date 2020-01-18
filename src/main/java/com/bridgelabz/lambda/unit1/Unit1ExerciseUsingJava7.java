@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/***
+ * @author Sachin Barpete
+ * @purpose Anonymous class or inner class Implementation
+ * @date 18/01/2020
+ */
 public class Unit1ExerciseUsingJava7 {
 
 	public static void main(String[] args) {
@@ -50,16 +55,14 @@ public class Unit1ExerciseUsingJava7 {
 		for (Person p : people)
 			if (condition.test(p))
 				System.out.println(p);
-
 	}
 
 	private static void printAll(List<Person> people) {
 		for (Person p : people)
 			System.out.println(p);
 	}
-
 }
-
+@FunctionalInterface
 interface Condition {
 	boolean test(Person p);
 }

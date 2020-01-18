@@ -2,26 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2dc5b3-720e-4f80-a722-be62378e2f48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ThisReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/CollectionIterationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/stream/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/stream/StreamExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/stream/StreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/stream/StreamExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/stream/StreamExample4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionalProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionalProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/ExceptionHandlingExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Greeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/RunnableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/RunnableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/TypeInferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/TypeInferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit1ExerciseUsingJava7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit1ExerciseUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/Unit2ExerciseUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/StandardFunctionalInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ClosuresExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ClosuresExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ExceptionHandlingExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/RunnableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/RunnableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/StandardFunctionalInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/StandardFunctionalInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ThisReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/ThisReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/TypeInferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/TypeInferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit1/Unit1ExerciseUsingJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/lambda/unit2/MethodReferenceExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/ClosuresExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/ExceptionHandlingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/ExceptionHandlingExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Greeter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Greeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/RunnableExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/RunnableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/ThisReferenceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/TypeInferenceExample$StringLengthLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/TypeInferenceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit1ExerciseUsingJava7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit1ExerciseUsingJava7$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit1ExerciseUsingJava7$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit1ExerciseUsingJava7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit1ExerciseUsingJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/Unit2ExerciseUsingJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bridgelabz/lambda/unit3/MethodReferenceExample1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +89,13 @@
       <recent name="com.bridgelabz.lambda" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodReferenceExample1">
-    <configuration name="ClosuresExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ClosuresExample" />
+  <component name="RunManager" selected="Application.StreamExample4">
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.stream.ForEachLoop" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="PATTERN" value="com.bridgelabz.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ExceptionHandlingExample" />
+    <configuration name="StreamExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.stream.StreamExample1" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="PATTERN" value="com.bridgelabz.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.Greeter" />
+    <configuration name="StreamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.stream.StreamExample2" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="PATTERN" value="com.bridgelabz.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit2.MethodReferenceExample1" />
+    <configuration name="StreamExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.stream.StreamExample3" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.unit2.*" />
+          <option name="PATTERN" value="com.bridgelabz.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.lambda.unit1.ThisReferenceExample" />
+    <configuration name="StreamExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.stream.StreamExample4" />
       <module name="FunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.lambda.unit1.*" />
+          <option name="PATTERN" value="com.bridgelabz.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodReferenceExample1" />
-        <item itemvalue="Application.ThisReferenceExample" />
-        <item itemvalue="Application.ClosuresExample" />
-        <item itemvalue="Application.Greeter" />
-        <item itemvalue="Application.ExceptionHandlingExample" />
+        <item itemvalue="Application.StreamExample4" />
+        <item itemvalue="Application.StreamExample3" />
+        <item itemvalue="Application.StreamExample2" />
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.StreamExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +189,7 @@
       <updated>1579262670719</updated>
       <workItem from="1579262671987" duration="793000" />
       <workItem from="1579263609290" duration="4052000" />
+      <workItem from="1579321377632" duration="15069000" />
     </task>
     <servers />
   </component>
@@ -183,25 +205,45 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="436" y="296" width="494" height="209" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1366.741@0.27.1366.741" timestamp="1579268341952" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1579268882553">
+    <state width="1320" height="102" key="GridCell.Tab.0.bottom" timestamp="1579343057008">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579268882553" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1579268882552">
+    <state width="1320" height="102" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579343057008" />
+    <state width="1320" height="102" key="GridCell.Tab.0.center" timestamp="1579343057008">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579268882552" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1579268882551">
+    <state width="1320" height="102" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579343057008" />
+    <state width="1320" height="102" key="GridCell.Tab.0.left" timestamp="1579343057008">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579268882551" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1579268882552">
+    <state width="1320" height="102" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579343057008" />
+    <state width="1320" height="102" key="GridCell.Tab.0.right" timestamp="1579343057008">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579268882552" />
-    <state x="328" y="128" width="710" height="538" key="find.popup" timestamp="1579265479590">
+    <state width="1320" height="102" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579343057008" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1579340631688">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="328" y="128" width="710" height="538" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1579265479590" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579340631688" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1579340631687">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1579340631687" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1579340631687">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1579340631687" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1579340631687">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1579340631687" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579321411531">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579321411531" />
+    <state x="328" y="128" width="710" height="538" key="find.popup" timestamp="1579323405736">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="328" y="128" width="710" height="538" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1579323405736" />
   </component>
 </project>

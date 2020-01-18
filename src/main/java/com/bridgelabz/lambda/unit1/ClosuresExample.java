@@ -1,5 +1,10 @@
 package com.bridgelabz.lambda.unit1;
 
+/***
+ * @author Sachin Barpete
+ * @purpose Closure Interface in lambda expression
+ * @date 18/01/2020
+ */
 public class ClosuresExample {
 
     public static void main(String[] args) {
@@ -14,6 +19,7 @@ public class ClosuresExample {
 
 }
 
+@FunctionalInterface
 interface Process {
     void process(int i);
 }

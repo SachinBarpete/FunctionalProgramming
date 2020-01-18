@@ -1,5 +1,10 @@
 package com.bridgelabz.lambda.unit1;
 
+/***
+ * @author Sachin Barpete
+ * @purpose Person model which have firsName, lastName and age property
+ * @date 18/01/2020
+ */
 public class Person {
 
 	private String firstName;

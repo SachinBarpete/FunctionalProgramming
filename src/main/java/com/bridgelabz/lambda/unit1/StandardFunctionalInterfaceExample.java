@@ -6,6 +6,10 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
+/***
+ * @author Sachin Barpete
+ * @date 18/01/2020
+ */
 public class StandardFunctionalInterfaceExample {
 
     public static void main(String[] args) {
